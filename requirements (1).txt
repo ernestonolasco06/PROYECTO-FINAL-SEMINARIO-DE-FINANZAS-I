@@ -1,0 +1,11 @@
+streamlit
+yfinance
+pandas
+ploty
+spicy
+numpy
+warnings
+datetime
+spicy.stats
+plotly.graph_objects
+plotly.express
